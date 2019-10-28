@@ -12,5 +12,6 @@ public class Tester2 {
         System.out.println(""+e.getEmployeeInfo());
         System.out.println("--------------------");
         System.out.println(""+pEmp.getEmployeeInfo());
+        System.out.println("Haloo");
     }
 }
